@@ -1,0 +1,28 @@
+{
+  "total_reviews": 9206,
+  "sentiment_distribution": {
+    "positive": 6223,
+    "negative": 1579,
+    "neutral": 1404
+  },
+  "average_confidence": 0.8056550434839718,
+  "confidence_by_sentiment": {
+    "negative": {
+      "mean": 0.7419360735093287,
+      "std": 0.15004195752717478
+    },
+    "neutral": {
+      "mean": 0.6096045025266134,
+      "std": 0.12254173093928657
+    },
+    "positive": {
+      "mean": 0.8660547241997186,
+      "std": 0.13737734740902152
+    }
+  },
+  "text_length_stats": {
+    "mean": 195.2739517705844,
+    "median": 120.0,
+    "std": 200.29462467831758
+  }
+}

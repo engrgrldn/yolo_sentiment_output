@@ -1,0 +1,8 @@
+names:
+- positive
+- neutral
+- negative
+nc: 3
+path: yolo_sentiment_output
+train: images
+val: images
