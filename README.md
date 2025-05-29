@@ -1,4 +1,4 @@
-# Sentiment Analysis Dataset for YOLOv7
+# Sentiment Analysis of Automative products for YOLOv7
 
 Generated on: 2025-05-29 19:23:00
 
